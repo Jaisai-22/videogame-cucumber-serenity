@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the video games application","Create a videogame and verify if videogame is added","SUCCESS","2021-08-03T22:43:05.288+01:00[Europe/London]","0.0","11.37"
+"Testing different request on the video games application","Getting videogame information by Id","SUCCESS","2021-08-03T22:43:20.401+01:00[Europe/London]","0.0","0.11"
+"Testing different request on the video games application","Update a created videogame & verify if the videogame is updated","SUCCESS","2021-08-03T22:43:20.626+01:00[Europe/London]","0.0","1.15"
+"Testing different request on the video games application","Delete a created videogame & verify the videogame is deleted","SUCCESS","2021-08-03T22:43:21.905+01:00[Europe/London]","0.0","0.14"
+"Testing different request on the video games application","Verify if the video games application can be accessed by users","SUCCESS","2021-08-03T22:43:22.230+01:00[Europe/London]","0.0","0.07"
